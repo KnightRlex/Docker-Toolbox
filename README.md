@@ -119,6 +119,4 @@ docker rm -f toolbox
 
 #### Leer las notas en las herraminetas que contengan para obtener mas informacióon
 
-#### ⚠️ Grype aun no funciona
-
 ### ⚠️ Las herramientas y utilidades mencionadas en este repositorio son propiedad intelectual de sus respectivos desarrolladores y se obtienen a través de Docker Hub. La disponibilidad, el mantenimiento y las futuras actualizaciones de estas herramientas dependen exclusivamente de sus creadores originales.
