@@ -1,0 +1,1 @@
+se usa -d (diff/muestra diferencias) en vez de -w (que reescribiría archivos) — respeta la regla de :ro, solo dice qué cambiaría, no lo cambia.

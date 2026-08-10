@@ -1,0 +1,3 @@
+** este run.sh es una heurística por patrones de texto (no interpreta el código), útil para tener una primera pista rápida, no un reemplazo de un análisis real de infraestructura.
+
+** se excluyen automáticamente carpetas pesadas conocidas (node_modules, .git, target, dist, build, .next, out, __pycache__, .venv, vendor) y se agrega un campo opcional para acotar a una subcarpeta.

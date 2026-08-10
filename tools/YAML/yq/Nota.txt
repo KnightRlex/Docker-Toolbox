@@ -1,0 +1,3 @@
+** aquí run-tool.sh necesita ver las variables FILE y EXPR dentro de run.sh. Como run.sh se ejecuta como proceso hijo vía timeout, se pasan como variables de entorno (FILE="$FILE" EXPR="$EXPR" /engine/run-tool.sh ...) — esto no requiere ningún cambio en run-tool.sh, las variables de entorno se heredan automáticamente a los procesos hijos en sh.
+
+** acepta cualquier ruta relativa dentro de "/work", incluyendo subcarpetas, no solo archivos en la raíz. run.sh simplemente concatena /work/$FILE, así que si escribes "tools/Seguridad/ejemplo.json" en vez de solo ejemplo.json, se resuelve a /work/tools/Seguridad/ejemplo.json sin ningún cambio de código.

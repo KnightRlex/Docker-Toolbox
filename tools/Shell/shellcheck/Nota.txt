@@ -1,0 +1,1 @@
+este run.sh asume rutas de archivo sin espacios (razonable para scripts, pero decláralo si tu proyecto usa nombres con espacios)

@@ -1,0 +1,3 @@
+** Todos los docker run (incluido el de Dive) hablan con el motor interno, que es un Docker completamente aislado y separado — nunca ha visto la imagen docker-toolbox, porque nunca la construyó ni la descargó él. Por eso intenta "pull" de Docker Hub, donde obviamente docker-toolbox no existe como repositorio público — de ahí el error de autenticación.
+
+No es un bug — es el mismo aislamiento que hace que el toolbox sea seguro (el motor interno no puede ver ni tocar nada del motor externo de Windows). Dive solo puede analizar imágenes que el motor interno ya descargó — es decir, cualquier imagen que ya usaste con otra herramienta del toolbox (Trivy, Hadolint, etc.), siempre que este dejado con "Conservar imagen".

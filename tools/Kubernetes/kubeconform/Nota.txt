@@ -1,0 +1,3 @@
+** se usa -ignore-missing-schemas porque si un proyecto no tiene ningún YAML de Kubernetes, es normal que no encuentre nada que validar — no es error.
+
+** opción de acotar la búsqueda a una subcarpeta específica.

@@ -1,0 +1,1 @@
+es un escaneo activo real — solo debe usarse contra equipos que controlas o tienes autorización explícita para probar (por ejemplo, un contenedor de tu propio proyecto corriendo en tu red local).

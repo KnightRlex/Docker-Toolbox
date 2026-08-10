@@ -1,0 +1,1 @@
+necesita que el servidor gRPC tenga habilitado "server reflection" para poder listar servicios sin archivos .proto. Si tu servidor no lo tiene, dará error explicando eso — no es bug.

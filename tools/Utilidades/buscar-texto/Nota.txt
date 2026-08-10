@@ -1,0 +1,1 @@
+** no se necesita indicar carpeta para que busquen en subcarpetas — find/grep -r ya recorren todo /work recursivamente por defecto, incluyendo subcarpetas. Se cuenta con la opción de acotar la búsqueda a una subcarpeta específica (para evitar node_modules/target en proyectos grandes).

@@ -1,0 +1,3 @@
+** el menu.sh ahora también pide la ruta del archivo dentro de tu proyecto (relativa a la raíz que montas como /work) y la expresión a aplicar.
+
+** acepta cualquier ruta relativa dentro de "/work", incluyendo subcarpetas, no solo archivos en la raíz. run.sh simplemente concatena /work/$FILE, así que si escribes "tools/Seguridad/ejemplo.json" en vez de solo ejemplo.json, se resuelve a /work/tools/Seguridad/ejemplo.json sin ningún cambio de código.

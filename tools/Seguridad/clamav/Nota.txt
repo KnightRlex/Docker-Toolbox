@@ -1,0 +1,1 @@
+si no hay red o freshclam falla, sigue con || true y escanea con la base disponible (la que traía la imagen o la del cache), en vez de detenerse.
