@@ -1,0 +1,4 @@
+checkov|/tools/Seguridad/checkov/run.sh|bridgecrew/checkov:latest|
+tflint|/tools/IaC/tflint/run.sh|ghcr.io/terraform-linters/tflint:latest|
+terraform|/tools/IaC/terraform/run.sh|hashicorp/terraform:latest|/tools/IaC/terraform/clean.sh
+opentofu|/tools/IaC/opentofu/run.sh|ghcr.io/opentofu/opentofu:latest|/tools/IaC/opentofu/clean.sh

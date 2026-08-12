@@ -1,0 +1,1 @@
+actionlint|/tools/CI-CD/actionlint/run.sh|rhysd/actionlint:latest|

@@ -1,0 +1,4 @@
+shellcheck|/tools/Shell/shellcheck/run.sh|koalaman/shellcheck:stable|
+shfmt|/tools/Shell/shfmt/run.sh|mvdan/shfmt:latest|
+yamllint|/tools/YAML/yamllint/run.sh|cytopia/yamllint:latest|
+markdownlint|/tools/Utilidades/markdownlint/run.sh|peterdavehello/markdownlint:latest|

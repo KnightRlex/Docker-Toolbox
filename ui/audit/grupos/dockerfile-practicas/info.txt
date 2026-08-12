@@ -1,0 +1,2 @@
+Buenas practicas de Dockerfile
+Revisa que tu Dockerfile siga buenas practicas de construccion.

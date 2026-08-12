@@ -1,0 +1,3 @@
+semgrep|/tools/Seguridad/semgrep/run.sh|semgrep/semgrep:latest|
+bandit|/tools/Seguridad/bandit/run.sh|cytopia/bandit:latest|
+bearer|/tools/Seguridad/bearer/run.sh|bearer/bearer:latest-amd64|

@@ -1,0 +1,3 @@
+trivy|/tools/Seguridad/trivy/run.sh|aquasec/trivy:latest|/tools/Seguridad/trivy/clean.sh
+grype|/tools/Seguridad/grype/run.sh|anchore/grype:latest|/tools/Seguridad/grype/clean.sh
+osv-scanner|/tools/Seguridad/osv-scanner/run.sh|ghcr.io/google/osv-scanner:latest|

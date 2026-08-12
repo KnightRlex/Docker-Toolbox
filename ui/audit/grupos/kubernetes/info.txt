@@ -1,0 +1,2 @@
+Kubernetes
+Valida manifiestos de Kubernetes contra el esquema oficial y buenas practicas.

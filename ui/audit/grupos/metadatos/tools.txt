@@ -1,0 +1,3 @@
+scc|/tools/Codigo/scc/run.sh|ghcr.io/boyter/scc:latest|
+espacio-disco|/tools/Utilidades/espacio-disco/run.sh||
+puertos-declarados|/tools/Seguridad/puertos-declarados/run.sh||

@@ -1,0 +1,1 @@
+clamav|/tools/Seguridad/clamav/run.sh|clamav/clamav:latest|/tools/Seguridad/clamav/clean.sh

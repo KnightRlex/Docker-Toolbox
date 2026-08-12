@@ -1,0 +1,2 @@
+Codigo peligroso (SAST)
+Analiza tu codigo fuente en busca de patrones inseguros y manejo de datos sensibles.

@@ -1,0 +1,2 @@
+Estilo y formato
+Revisa consistencia de estilo en scripts, YAML y documentacion.

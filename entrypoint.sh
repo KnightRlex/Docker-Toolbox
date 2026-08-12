@@ -46,6 +46,8 @@ do
     done
 
     echo
+    echo "A. Auditoria"
+    echo
     echo "C. Gestionar cache"
     echo
     echo "S. Salir"
@@ -55,6 +57,10 @@ do
     read OPTION
 
     case "$OPTION" in
+
+    a|A)
+        /ui/audit/menu.sh || true
+        ;;
 
     c|C)
         /ui/cache/menu.sh || true

@@ -1,0 +1,2 @@
+Inventario (SBOM)
+Genera un inventario completo de las dependencias del proyecto.

@@ -1,0 +1,2 @@
+gitleaks|/tools/Seguridad/gitleaks/run.sh|zricethezav/gitleaks:latest|
+trufflehog|/tools/Seguridad/trufflehog/run.sh|trufflesecurity/trufflehog:latest|

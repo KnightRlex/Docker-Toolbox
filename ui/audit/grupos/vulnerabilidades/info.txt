@@ -1,0 +1,2 @@
+Vulnerabilidades (CVE)
+Busca vulnerabilidades conocidas en las dependencias de tu proyecto.

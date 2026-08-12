@@ -1,0 +1,2 @@
+Virus / Malware
+Escanea los archivos del proyecto en busca de malware conocido.

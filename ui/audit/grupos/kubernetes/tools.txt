@@ -1,0 +1,2 @@
+kubeconform|/tools/Kubernetes/kubeconform/run.sh|ghcr.io/yannh/kubeconform:latest|
+kube-linter|/tools/Kubernetes/kube-linter/run.sh|stackrox/kube-linter:latest|
