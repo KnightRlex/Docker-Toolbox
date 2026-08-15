@@ -15,10 +15,10 @@ if [ ! -f "$TOOLS_FILE" ]; then
     exit 1
 fi
 
-mkdir -p /work/report
+mkdir -p /report
 
 TIMESTAMP=$(date +%Y%m%d-%H%M%S)
-REPORT_FILE="/work/report/${GRUPO_NOMBRE}_${TIMESTAMP}.md"
+REPORT_FILE="/report/${GRUPO_NOMBRE}_${TIMESTAMP}.md"
 
 {
     echo "# Auditoria: $GRUPO_NOMBRE"
